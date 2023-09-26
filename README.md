@@ -1,7 +1,7 @@
 # Weather-APP
 Weather app using Node.js
 
-
+The weather API was fethced feom OpenWweather
 Output Result :
 
 
