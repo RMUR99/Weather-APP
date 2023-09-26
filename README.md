@@ -1,7 +1,9 @@
 # Weather-APP
 Weather app using Node.js
 
-The weather API was fethced feom OpenWweather
+The weather API was fethced from OpenWweather API which wher you can get the API for free 
+
+
 Output Result :
 
 
